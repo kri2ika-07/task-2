@@ -1,0 +1,1 @@
+Todays task helped me understand the vital concept of email phishing. i used online email analyzer to look for multiple different types of examples of phishing emails. i then learned how to indentify the traits of phishing, on discussing them with a fellow intern, i learnt multiple other traits.
